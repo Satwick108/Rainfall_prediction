@@ -1,1 +1,1 @@
-web: gunicorn app:app
+sudo delete web service Rainfall_prediction
